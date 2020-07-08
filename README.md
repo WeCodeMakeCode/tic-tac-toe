@@ -1,21 +1,12 @@
 
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/wecodemakecode/new-tic-tac-toe** and import
-
 ## Edit this project ![Build status badge](https://github.com/wecodemakecode/new-tic-tac-toe/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* open [https://arcade.makecode.com/beta](https://arcade.makecode.com/beta)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/wecodemakecode/new-tic-tac-toe** and click import
+* paste **https://github.com/wecodemakecode/tic-tac-toe** and click import
 
 ## Blocks preview
 
