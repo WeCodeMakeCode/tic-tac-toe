@@ -93,7 +93,6 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     }
 })
 function do_winner (Player: number, a_win: string) {
-    console.log("enter do winner")
     display_messages("WIN", 4, 7)
     Win_image = Selected_image.clone()
     Win_image.replace(6, 2)
