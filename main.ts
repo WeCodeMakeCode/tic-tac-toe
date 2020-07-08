@@ -441,7 +441,6 @@ function set_booleans_for_game_type (game_type: string) {
     b_computer_random = one_char_n(game_type, 2) == 1
 }
 function is_winner () {
-    console.log("enter is winner")
     for (let a_win of Wins) {
         status_s = count_0_1_2s(a_win)
         N_Os = one_char_n(status_s, 0)
