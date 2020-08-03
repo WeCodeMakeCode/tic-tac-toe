@@ -1,7 +1,7 @@
 
 ## Tic-Tac-Toe in MakeCode Arcade Blocks as Streamed on Twitch
 
-![Tic-Tac-Toe in MakeCode Arcade Blocks ](https://github.com/wecodemakecode/)
+![Tic-Tac-Toe in MakeCode Arcade Blocks ](https://github.com/WeCodeMakeCode/tic-tac-toe/blob/master/tic%20tac%20toe%20gif%20shorter.gif)
 
 
 ## Edit this project ![Build status badge](https://github.com/wecodemakecode/new-tic-tac-toe/workflows/MakeCode/badge.svg)
